@@ -1,0 +1,46 @@
+body{
+	background-color: #232323;
+	font-family: 'Anton', sans-serif;
+}
+#container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+
+	border-radius: 5px;
+}
+.jumbotron{
+	color: white;
+	background-color:#232323; 
+	margin: 0;
+}
+.jumbotron h1{	
+	font-size: 300%;
+	margin: 20px;
+	padding: 15px;
+	color: white;
+	text-align: center;
+}
+.navbar-center{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+.jumbotron #colorDisplay{
+	font-size: 160%;
+	margin: 30px;
+	font-family: 'Zilla Slab Highlight', cursive;
+}
+
+button{
+	margin-right: 20px;
+	font-family: 'Anton', sans-serif;
+}
